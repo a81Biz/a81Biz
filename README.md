@@ -65,7 +65,7 @@ Cloud y DevOps:
 <h3>Certificaciones y Credenciales</h3>
 
 - **Microsoft Certified: Azure Fundamentals**  
-  [<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals Badge" style="width:50px;height:50px;>](https://www.credly.com/badges/c9aad3fe-1021-47a0-bd0b-e4a37099eda4)
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals Badge" style="width:50px;height:50px;>(https://www.credly.com/badges/c9aad3fe-1021-47a0-bd0b-e4a37099eda4)
 
 - **Google Cloud Computing Foundations**  
   [<img src="https://images.credly.com/size/110x110/images/4e52da73-8e8f-4f0a-97b9-0de3e3d48b5e/image.png" alt="Google Cloud Computing Badge" style="width:50px;height:50px;>](https://www.credly.com/badges/1216be33-386d-4155-85ab-a0363bb3b6dc)

@@ -1,4 +1,3 @@
-
 <h2 align="center">¡Hola! Soy Alberto Martínez 🎉</h2>
 
 <p align="center"><em>Desarrollador Full-Stack con más de 8 años de experiencia, apasionado por la tecnología y el desarrollo de soluciones innovadoras.</em></p>
@@ -63,9 +62,18 @@ Cloud y DevOps:
 
 ---
 
-<h3>Certificaciones</h3>
+<h3>Certificaciones y Credenciales</h3>
 
-- **Azure Fundamentals** - 2020
+- **Microsoft Certified: Azure Fundamentals**  
+  [<img src="https://images.credly.com/size/110x110/images/ed9b4b9d-e4b5-4a09-8e56-34fd3a927b6d/Azure_Fundamentals.png" alt="Azure Fundamentals Badge">](https://www.credly.com/badges/c9aad3fe-1021-47a0-bd0b-e4a37099eda4)
+
+- **Google Cloud Computing Foundations**  
+  [<img src="https://images.credly.com/size/110x110/images/4e52da73-8e8f-4f0a-97b9-0de3e3d48b5e/image.png" alt="Google Cloud Computing Badge">](https://www.credly.com/badges/1216be33-386d-4155-85ab-a0363bb3b6dc)
+
+- **Google Analytics Certification**  
+  [<img src="https://skillshop-cdn-logos-global.skillshop.com/badges/analytics-badge.png" alt="Google Analytics Badge">](https://skillshop.credential.net/fba14fa3-3011-403a-9c8b-aedfab3ee478)
+
+- Más certificaciones disponibles en [mis credenciales de Credly](https://www.credly.com/users/alberto-martinez.065c20ea).
 
 ---
 

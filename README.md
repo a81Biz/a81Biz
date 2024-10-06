@@ -68,7 +68,7 @@ Cloud y DevOps:
 
 - [<img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Badge" style="width:50px;height:50px;">](https://www.credly.com/badges/1216be33-386d-4155-85ab-a0363bb3b6dc) **Google Cloud Computing Foundations** [Ver certificado](https://www.credly.com/badges/1216be33-386d-4155-85ab-a0363bb3b6dc) 
 
-- [<img src="https://templates.images.credential.net/16722171176440784346699372916351.png" alt="Google Analytics Badge" style="width:50px;height:50px;">](https://skillshop.credential.net/fba14fa3-3011-403a-9c8b-aedfab3ee478) **Google Analytics Certification** [Ver Certificado] (https://skillshop.credential.net/fba14fa3-3011-403a-9c8b-aedfab3ee478) 
+- [<img src="https://templates.images.credential.net/16722171176440784346699372916351.png" alt="Google Analytics Badge" style="width:50px;height:50px;">](https://skillshop.credential.net/fba14fa3-3011-403a-9c8b-aedfab3ee478) **Google Analytics Certification** [Ver Certificado](https://skillshop.credential.net/fba14fa3-3011-403a-9c8b-aedfab3ee478) 
 
 - Más certificaciones disponibles en [mis credenciales de Credly](https://www.credly.com/users/alberto-martinez.065c20ea).
 

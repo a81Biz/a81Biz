@@ -18,7 +18,7 @@
 
 <h3>Sobre mí</h3>
 
-- 👨‍💻 Actualmente soy Desarrollador Sénior en [NEORIS](https://www.neoris.com/), donde lidero el desarrollo de interfaces y la transformación digital mediante **microservicios** y **DevOps**.
+- 👨‍💻 Actualmente soy Desarrollador Sénior en [NEORIS](https://www.neoris.com/), estoy en el desarrollo de interfaces y la transformación digital mediante **microservicios** y **DevOps**.
 - 🌱 Siempre en constante aprendizaje, actualmente enfocado en **Terraform**, **C#**, **JavaScript** y optimización de procesos de desarrollo.
 - 🚀 Mi experiencia incluye la modernización de sistemas monolíticos, optimización de tiempos de entrega y migración a la nube con **Azure**.
 - 🎯 Apasionado por compartir conocimiento y ayudar a otros desarrolladores a mejorar en su carrera.
